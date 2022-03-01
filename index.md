@@ -30,7 +30,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -51,7 +51,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -72,7 +72,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -94,7 +94,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -116,7 +116,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -138,7 +138,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -160,7 +160,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -182,7 +182,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -203,7 +203,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -225,7 +225,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -246,7 +246,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -267,7 +267,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -288,7 +288,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -310,7 +310,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -332,7 +332,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -354,7 +354,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -375,7 +375,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -397,7 +397,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
@@ -419,7 +419,7 @@ Note that the singer in the testing data could **not** be found in the training 
             <th>GT Professional</th>
             <th>GT Amateur</th>
             <th>baseline</th>
-            <th>NVSB</th>
+            <th>NSVB</th>
         </tr>
         </thead>
         <tbody>
